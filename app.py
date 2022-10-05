@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello World, my name is Ali Draz!'
+    return 'Thi is a GitOps pipeline with Jenkins and Amazon EKS cluster!'
